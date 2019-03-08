@@ -1,6 +1,6 @@
 # Full-Stack-Web-Developer-Bootcamp
 
-### Objective: Learn to build websites with HTML, CSS, Bootstrap, Javascript, jQuery, Python 3, and Django 1.10!
+Objective: Learn to build websites with HTML, CSS, Bootstrap, Javascript, jQuery,go, Python 3, and Django 1.10, ruby rails!
 
 ### Getting Started
 You can download each folder individually by topic, or clone the complete repository with all the lessons available.
